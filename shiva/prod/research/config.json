@@ -1,0 +1,1 @@
+{"resourceType":"config","applicationName":"shiva","profile":"prod","instance":"research","noencrypt":{"key1":"value1","key2":"value2","key3":"value3"},"encrypt":{"key4":"value4","key5":"value5"}}
