@@ -1,1 +1,1 @@
-{"resourceType":"config","applicationName":"sushanta_philips_4000","profile":"prod","instance":"hospital","data":{"encrypt":{},"non-encrypt":{}}}
+{"resourceType":"config","applicationName":"sushanta_philips_4000","profile":"prod","instance":"hospital","data":{"encrypt":{"key1":"value1"},"non-encrypt":{"key2":"value2"}}}
