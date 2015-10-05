@@ -1,1 +1,1 @@
-{"resourceType":"config","applicationName":"siva_121","profile":"prod","instance":"hospital","data":{"encrypt":{"key2":"value1"},"non-encrypt":{"key1":"value1"}}}
+{"resourceType":"config","applicationName":"siva_121","profile":"prod","instance":"hospital","data":{"encrypt":{"key1":"value10"},"non-encrypt":{"key2":"value2"}}}
