@@ -1,16 +1,1 @@
-{
-    "resourceType": "config",
-    "applicationName":"sushanta_6_10",
-    "profile": "prod",
-    "instance": "hospital",
-    "data": {
-        "non-encrypt": {
-           
-           "key1":"value1"
-           
-        },
-        "encrypt": {
-            "key2":"value1"
-        }
-    }
-}
+{"resourceType":"configuration","applicationName":"IHE","profile":"prod","instance":"hospital","data":{"encrypt":{"key4":"value4","key5":"value5"},"non-encrypt":{"key1":"value1","key2":"value2","key3":"value3"}}}
