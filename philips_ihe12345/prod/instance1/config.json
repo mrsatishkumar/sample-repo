@@ -1,0 +1,1 @@
+{"resourceType":"config","applicationName":"philips_ihe12345","profile":"prod","instance":"instance1","data":{"encrypt":{"key1":"value1"},"non-encrypt":null}}
