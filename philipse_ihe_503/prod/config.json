@@ -1,1 +1,1 @@
-{"resourceType":"configuration","applicationName":"philipse_ihe_503","profile":"prod","data":{"encrypt":{"key":"value1"},"non-encrypt":{"key2":"value2"}}}
+{"resourceType":"configuration","applicationName":"philipse_ihe_503","profile":"prod","data":{"encrypt":{"key1":"value1"},"non-encrypt":{"key2":"value2"}}}
