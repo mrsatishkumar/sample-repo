@@ -1,0 +1,1 @@
+{"resourceType":"configuration","applicationName":"philipse_ihe_503","profile":"prod","instance":"philipse_ihe_fortis","data":{"encrypt":{"key":"value1"},"non-encrypt":{"key2":"value2"}}}
