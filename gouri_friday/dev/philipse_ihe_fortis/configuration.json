@@ -1,1 +1,1 @@
-{"resourceType":"configuration","applicationName":"gouri_friday","profile":"dev","instance":"philipse_ihe_fortis","data":{"encrypt":{"key1":"value1"},"non-encrypt":{"key2":"value2"}}}
+{"resourceType":"configuration","applicationName":"gouri_friday","profile":"dev","instance":"philipse_ihe_fortis","data":{"encrypt":{"key1":"value1","key3":"value1"},"non-encrypt":{"key2":"value2"}}}
