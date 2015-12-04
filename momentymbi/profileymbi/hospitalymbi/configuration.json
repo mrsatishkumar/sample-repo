@@ -1,1 +1,1 @@
-{"resourceType":"config","application":"momentymbi","profile":"profileymbi","instance":"hospitalymbi","data":{"encrypt":{"key5":"26f2067eb00a2addd59fa72c14641e74","key4":"13d0a965ae2ef01adae7f50ce6c0fcb0"},"non-encrypt":{"key1":"value100","key2":"value200","key3":""}}}
+{"resourceType":"config","application":"momentymbi","profile":"profileymbi","instance":"hospitalymbi","data":{"encrypt":{"key5":"26f2067eb00a2addd59fa72c14641e74","key4":"13d0a965ae2ef01adae7f50ce6c0fcb0"},"non-encrypt":{"key1":null,"key2":"value200","key3":"value300"}}}
